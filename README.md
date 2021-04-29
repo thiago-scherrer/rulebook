@@ -10,7 +10,7 @@ O dojo tem como objetivo a troca de conhecimentos e aprendizado do grupo na ling
 
 O horário do Dojo deve ser um horário e dia a cada periodo de tempo que todos membros possam comparecer, podendo ser alterado quando necessário.
 
-Esse Dojo ira se reunir todas segunda-feiras das 20:00-21:00 (UTC-3).
+Esse Dojo ira se reunir todas segunda-feiras das 21:00-22:00 (UTC-3).
 
 ### How to
 
